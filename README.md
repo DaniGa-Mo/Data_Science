@@ -20,3 +20,9 @@ Aprendiendo Python para la Ciencia de Datos.
   <ul>✅ Diferenciar las estructuras condicionales.</ul>
   <ul>✅ Seleccionar la estructura condicional que mejor se adapte al problema.</ul>
   <ul>✅ Utilizar diferentes operadores para crear expresiones condicionales.</ul>
+
+
+  ✨ CUARTA AULA, Lo que aprendimos:
+  <ul>✅ Estructurar bucles de repetición for y while.</ul>
+  <ul>✅ Decidir qué bucle de repetición utilizar.</ul>
+  <ul>✅ Utilizar comandos de control de bucles.</ul>
