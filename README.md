@@ -26,3 +26,9 @@ Aprendiendo Python para la Ciencia de Datos.
   <ul>✅ Estructurar bucles de repetición for y while.</ul>
   <ul>✅ Decidir qué bucle de repetición utilizar.</ul>
   <ul>✅ Utilizar comandos de control de bucles.</ul>
+
+
+ ✨  QUINTA  AULA, Lo que aprendimos:
+  <ul>✅ Construir estructuras de datos.</ul>
+  <ul>✅ Crear listas y diccionarios.</ul>
+  <ul>✅ Llenar y manipular listas y diccionarios.</ul>
